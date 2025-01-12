@@ -48,7 +48,7 @@ int main() {
                 int sphere_r = static_cast<int>(208 * light_intensity);
                 int sphere_g = static_cast<int>(50 * light_intensity);
                 int sphere_b = static_cast<int>(128 * light_intensity);
-
+                
                 // int r = (sphere_r - bg_r) / 2;
                 // int g = (sphere_g - bg_g) / 2;
                 // int b = (sphere_b - bg_b) / 2;
